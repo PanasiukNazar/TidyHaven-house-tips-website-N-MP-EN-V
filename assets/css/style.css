@@ -453,7 +453,7 @@ dt {
     height: 850px;
 }
 .bg_free_img {
-    background-image: url(../images/banner-bg-bottom.png);
+    background-image: url(../images/banner-img.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     -webkit-background-size: cover;
@@ -463,7 +463,7 @@ dt {
 }
 .about-banner-img {
     background: rgba(255, 255, 255, 0);
-    background-image: url(../images/about-banner-img.jpg);
+    background-image: url(../images/banner-img.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
@@ -474,7 +474,7 @@ dt {
 
 .service-banner-img {
     background: rgba(255, 255, 255, 0);
-    background-image: url(../images/service-banner-img.jpg);
+    background-image: url(../images/banner-img.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
@@ -485,7 +485,7 @@ dt {
 
 .testimonials-banner-img {
     background: rgba(255, 255, 255, 0);
-    background-image: url(../images/testimonials-banner-img.jpg);
+    background-image: url(../images/banner-img.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
@@ -496,7 +496,7 @@ dt {
 
 .contact-banner-img {
     background: rgba(255, 255, 255, 0);
-    background-image: url(../images/contact-banner-img.jpg);
+    background-image: url(../images/banner-img.jpg);
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
@@ -1549,7 +1549,7 @@ label {
 /* Testimonial Area start */
 
 .bg_testimonial_img {
-    background-image: url(../images/testimonial_bg.png);
+    background: #000000;
     background-repeat: no-repeat;
     background-position: center top;
     -webkit-background-size: cover;
